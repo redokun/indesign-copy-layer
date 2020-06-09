@@ -26,3 +26,10 @@ Download the script from here https://redokun.com/blog/indesign-copy-entire-laye
 ## Notes
 
 Please be aware that the script doesn't copy the items in the master spread.
+
+
+## License
+
+Copyright (c) 2020 Redokun Srls
+
+This project is licensed under the terms of the MIT license.
